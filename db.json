@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "3",
+      "description": "Mercado",
+      "amount": 3805,
+      "type": "income",
+      "date": "2026-03-08"
+    },
+    {
+      "id": "4",
+      "description": "Salário",
+      "amount": 900,
+      "type": "income",
+      "date": "2026-01-12"
+    },
+    {
+      "id": "5",
+      "description": "Internet",
+      "amount": 99.9,
+      "type": "expense",
+      "date": "2026-01-14"
+    },
+    {
+      "id": "6",
+      "description": "Conta de Luz",
+      "amount": 145.3,
+      "type": "expense",
+      "date": "2026-01-15"
+    },
+    {
+      "id": "7",
+      "description": "Restaurante",
+      "amount": 89.9,
+      "type": "expense",
+      "date": "2026-01-18"
+    },
+    {
+      "id": "8",
+      "description": "Investimento",
+      "amount": 300,
+      "type": "income",
+      "date": "2026-01-20"
+    },
+    {
+      "id": "9",
+      "description": "Transporte",
+      "amount": 120,
+      "type": "expense",
+      "date": "2026-01-22"
+    },
+    {
+      "id": "10",
+      "description": "Transporte",
+      "amount": 120,
+      "type": "expense",
+      "date": "2027-02-22"
+    },
+    {
+      "description": "dasdasdasa",
+      "amount": 21131,
+      "type": "income",
+      "date": "2026-04-11",
+      "id": "xu727lYaGj8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
